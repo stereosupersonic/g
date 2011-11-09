@@ -1,12 +1,12 @@
 g
 ========
 
-[http://github.com/jugyo/g/tree/master](http://github.com/jugyo/g/tree/master)
+[https://github.com/stereosupersonic/g/tree/master](https://github.com/stereosupersonic/g/tree/master)
 
 Description
 --------
 
-The Kernel.g that works like Kernel.p on growl :)
+The Kernel.g that works like Kernel.p on growl 1.3 and does not need ruby-growl
 
 Install
 --------
@@ -15,7 +15,7 @@ Install
 
 or
 
-    sudo gem install jugyo-g --source http://gems.github.com
+    sudo gem install stereosupersonic-g --source http://gems.github.com
 
 Synopsis
 --------
@@ -38,7 +38,7 @@ Synopsis
 Requirements
 --------
 
-* ruby-growl
+* ruby_gntp
 
 License
 --------
